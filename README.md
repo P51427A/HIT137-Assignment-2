@@ -2,11 +2,10 @@
 Group assignment for HIT137 Software Now, Semester 2, 2026.
 
 ## Group Members
-
-Pranjal Awasthi - S405821
-Rahul Neupane - S404801
-Milan Bhattarai - S403198
-Nischal Malla - S401733
+- Pranjal Awasthi - S405821
+- Rahul Neupane - S404801
+- Milan Bhattarai - S403198
+- Nischal Malla - S401733
 
 ## Question 1: File Cipher
 
