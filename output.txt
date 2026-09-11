@@ -1,7 +1,7 @@
-Input: 3 ^ 2
-Tree: (^ 3 2)
-Tokens: [NUM:3] [OP:^] [NUM:2] [END]
-Result: 9
+Input: 3 ^ 2 ^2
+Tree: (^ 3 (^ 2 2))
+Tokens: [NUM:3] [OP:^] [NUM:2] [OP:^] [NUM:2] [END]
+Result: 81
 
 Input: 2 + 3 * 4
 Tree: (+ 2 (* 3 4))
